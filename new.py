@@ -1,1 +1,1 @@
-print('mianmianmian')
+print('chongtu jiejue')
